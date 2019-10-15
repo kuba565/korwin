@@ -175,14 +175,12 @@ public class KorwinSpeechUtil {
                 "co sto lat temu nikomu nie przyszłoby nawet do głowy."
         );
 
-        return String.format(
-                "%s %s %s %s %s %s",
+        return String.format("%s %s %s %s %s %s",
                 strings1.get(randomInts.get(0)),
                 strings2.get(randomInts.get(1)),
                 strings3.get(randomInts.get(2)),
                 strings4.get(randomInts.get(3)),
                 strings5.get(randomInts.get(4)),
-                strings6.get(randomInts.get(5))
-        );
+                strings6.get(randomInts.get(5)));
     }
 }
