@@ -7,6 +7,9 @@ import pl.kuba565.korwin.util.KorwinSpeechUtil;
 public class KorwinSpeechGenerator {
 
     public String generateKorwinSpeech() {
-        return KorwinSpeechUtil.generateKorwinSpeech();
+        return "<form action=\"https://korwin-generator.herokuapp.com/\">\n" +
+                "    <input type=\"submit\" value=\"generuj wypowiedź Korwina\" />\n" +
+                "</form>" + "\\r\\n" +
+                KorwinSpeechUtil.generateKorwinSpeech();
     }
 }
