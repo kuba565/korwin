@@ -64,7 +64,7 @@ public class KorwinSpeechUtil {
                 "socjaliści bezbożni",
                 "komuniści z krzyżem w zębach",
                 "agenci obcych służb",
-                "członkowie Bandy Czworrga",
+                "członkowie Bandy Czworga",
                 "pseudo-masoni z Wielkiego Wschodu Francji",
                 "przedstawiciele czerwonej hołoty",
                 "ci wszyscy (tfu!) geje",
@@ -121,7 +121,7 @@ public class KorwinSpeechUtil {
                 "próbują skłócić Polskę z Rosją,",
                 "głoszą brednie o globalnym ociepleniu,",
                 "zakazują posiadania broni,",
-                "nie dopuszczająą prawicy do władzy,",
+                "nie dopuszczają prawicy do władzy,",
                 "uczą dzieci homoseksualizmu,"
         );
 
